@@ -1,0 +1,4 @@
+Exec p1, prioridade=3, inicio_tempo_execucao=0, tempo_total_execução=8
+Exec p2, prioridade=1, inicio_tempo_execucao=2, tempo_total_execução=6
+Exec p3, prioridade=1, inicio_tempo_execucao=3, tempo_total_execução=7
+Exec p4, prioridade=2, inicio_tempo_execucao=10, tempo_total_execução=4
